@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://raw.githubusercontent.com/dominicg666/AMA-/main/5adso6.gif">
 </p>
 
 <p align='center'>
