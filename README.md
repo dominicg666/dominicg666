@@ -5,8 +5,8 @@
 </p>
 
 <p align='center'>
-[ <a href='https://github.com/dominicg666/ama/issues/new'>Ask a question</a> ] ||
-[ <a href='https://github.com/dominicg666/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+[ <a href='https://github.com/dominicg666/AMA-/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/dominicg666/AMA-/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
 </p>
 
 <!--
