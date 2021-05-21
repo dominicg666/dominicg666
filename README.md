@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
+<p align='center'>
+[ <a href='https://github.com/dominicg666/ama/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/dominicg666/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+</p>
+
 <!--
 **dominicg666/dominicg666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
