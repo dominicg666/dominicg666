@@ -5,23 +5,23 @@
 
 - 🌱 I’m currently improving my React.js,Mongo,Express,Node(MERN Stack) Skills
 
-- 📫 How to reach me **alexmanjaly22@gmail.com**
+- 📫 How to reach me **dominicg666@gmail.com**
 
 <h3 align="left">:electric_plug: Connect with me:<br /> _______________________________</h3>
 <p align="left">
-    <a href="https://twitter.com/alexmanjaly22" target="blank"><img align="center"
+<!--     <a href="https://twitter.com/alexmanjaly22" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="alexmanjaly" height="23" width="23" /></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-anto/" target="blank"><img align="center"
+            alt="alexmanjaly" height="23" width="23" /></a>&nbsp;&nbsp; -->
+    <a href="https://in.linkedin.com/in/dominic-george-a22029b7" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/alex-anto/" height="23" width="23"/>
+            alt="https://www.linkedin.com/in/dominic-george-a22029b7/" height="23" width="23"/>
     </a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/lx6002" target="blank"><img align="center"
+<!--     <a href="https://stackoverflow.com/users/lx6002" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="lx6002" height="23" width="23" /></a>&nbsp;&nbsp;
-    <a href="https://fb.com/https://www.facebook.com/alex.manjaly" target="blank"><img align="center"
+            alt="lx6002" height="23" width="23" /></a>&nbsp;&nbsp; -->
+<!--     <a href="https://fb.com/https://www.facebook.com/alex.manjaly" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/alex.manjaly" height="23" width="23" /></a>
+            alt="https://www.facebook.com/alex.manjaly" height="23" width="23" /></a> -->
 </p>
 <h3 align="left">:rocket: Languages and Tools:<br /> _______________________________</h3>
 <p align="left">
