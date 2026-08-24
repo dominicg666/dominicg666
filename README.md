@@ -26,7 +26,7 @@ dominicg666/dominicg666 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://ghstats.dev/api/card?username=dominicg666&style=for-the-badge)
+![GitHub Stats](https://ghstats.dev/api/card?username=dominicg666&style=flat)
 
 
 
