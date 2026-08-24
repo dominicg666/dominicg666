@@ -1,6 +1,6 @@
 # :wave: Hello <b>developers</b>, I am <b>Dominic George</b>
 
-As a self-taught geek developer and frontend builder, my objective is to consistently deliver high-quality work while continuously seeking opportunities for learning and incorporating best practices into my development process.
+As a self-taught developer and frontend enthusiast, my goal is to consistently deliver high-quality solutions while continuously learning and adopting industry best practices to improve my development skills.
 
 # 💫About Me :
 - :earth_africa:		 I like to contribute to open source and explore github.
